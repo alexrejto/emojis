@@ -1,7 +1,7 @@
 [
   {
-    "name": "xbox",
-    "image": "img-buildkite-64/xbox.png",
+    "name": "openapi-spec",
+    "image": "img-buildkite-64/openapi-spec.png",
     "category": "Buildkite",
     "aliases": []
   },
